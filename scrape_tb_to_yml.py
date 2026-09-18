@@ -163,7 +163,19 @@ def main():
     for url in urls:
         try: html=get(url)
         except Exception as e: print("WARN fetch",url,e,file=sys.stderr); continue
-        soup=BeautifulSoup(html,"html.parser"); found.extend(extract_jsonld(soup,url)); found.extend(extract_dom(soup,url))
+        soup=BeautifulSoup(html,"html.parser")
+        # Debug all T-Bank storage images with nearby text to map real food photos.
+        seen_img=set()
+        for img in soup.find_all("img"):
+            src=img.get("src") or img.get("data-src") or ""
+            if not src or "selstorage.ru" not in src or src in seen_img: continue
+            seen_img.add(src)
+            parent=img.parent
+            for _ in range(3):
+                if parent and parent.parent: parent=parent.parent
+            ctx=clean(parent.get_text(" ",strip=True) if parent else "")[:180]
+            print("IMG|",src,"|ALT|",clean(img.get("alt","")),"|CTX|",ctx)
+        found.extend(extract_jsonld(soup,url)); found.extend(extract_dom(soup,url))
     found=apply_known_site_corrections(dedupe(found))
     print(f"Found {len(found)} product offers on site; existing feed has {len(existing)}")
     for p in found:
