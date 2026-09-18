@@ -21,6 +21,11 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - name: Bootstrap menu.yml if missing
+        run: |
+          if [ ! -f menu.yml ]; then
+            base64 -d seed_menu.yml.gz.b64 | gzip -d > menu.yml
+          fi
       - name: Build menu.yml from uantonio.tb.ru
         run: python scrape_tb_to_yml.py
       - name: Commit changed feed
