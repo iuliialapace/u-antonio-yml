@@ -30,7 +30,7 @@ jobs:
         run: python scrape_tb_to_yml.py
       - name: Commit changed feed
         run: |
-          if git diff --quiet -- menu.yml; then
+          if [ -z "$(git status --porcelain -- menu.yml)" ]; then
             echo "No changes"
             exit 0
           fi
