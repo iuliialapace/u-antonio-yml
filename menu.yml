@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+  <shop>
+    <categories>
+      <category id="101">Красные пиццы</category>
+      <category id="102">Белые пиццы</category>
+      <category id="103">Паста и салаты</category>
+      <category id="104">Закуски</category>
+      <category id="105">Комбо</category>
+      <category id="107">Напитки</category>
+      <category id="108">Дополнительные топпинги</category>
+    </categories>
+    <offers>
+      <offer id="uanto-7196add9518ad456">
+        <name>Вегетарианское трио</name>
+        <vendor>У Антонио</vendor>
+        <price>1890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Овощи гриль 25 см + 4 сыра 25 см + Груша и горгонзола 25 см. Выгода 300 ₽.</description>
+        <shortDescription>Овощи гриль 25 см + 4 сыра 25 см + Груша и горгонзола 25 см. Выгода 300 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-602ceac025574bb7">
+        <name>Ветчина 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</description>
+        <shortDescription>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c9c34e6d3638935d">
+        <name>Ветчина 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>760</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</description>
+        <shortDescription>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-e2e3e5c9cc1d2b88">
+        <name>Ветчина 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>970</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</description>
+        <shortDescription>Сливочная основа, моцарелла и нежная ветчина. Отдельная позиция без грибов.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-dadee10b4de4081d">
+        <name>Груша и горгонзола 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</description>
+        <shortDescription>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-2973199be9162d7c">
+        <name>Груша и горгонзола 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</description>
+        <shortDescription>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-a55ab972c12ed7ef">
+        <name>Груша и горгонзола 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</description>
+        <shortDescription>Сливочная основа, моцарелла, горгонзола и тонкие ломтики груши.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-a8ebefeaf319f0ce">
+        <name>Компания у Антонио</name>
+        <vendor>У Антонио</vendor>
+        <price>2290</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Пепперони 25 см + 4 сыра 25 см + Пицца с тефтельками 25 см. Выгода 320 ₽.</description>
+        <shortDescription>Пепперони 25 см + 4 сыра 25 см + Пицца с тефтельками 25 см. Выгода 320 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-cadfbe23f91e9b9d">
+        <name>Мортаделла с фисташками 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</description>
+        <shortDescription>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-06e3fc784df95e1a">
+        <name>Мортаделла с фисташками 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>960</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</description>
+        <shortDescription>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-980d1c9ea82d8142">
+        <name>Мортаделла с фисташками 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</description>
+        <shortDescription>Сливочная основа с моцареллой. После выпечки — мортаделла, фисташковая крошка и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-44a07450c1dcf7b5">
+        <name>Прошутто котто 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</description>
+        <shortDescription>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-76075e5924ed3019">
+        <name>Прошутто котто 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>720</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</description>
+        <shortDescription>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4cd2c96aefe43f5a">
+        <name>Прошутто котто 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>930</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>102</categoryId>
+        <description>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</description>
+        <shortDescription>Сливочная основа с моцареллой и прошутто котто, которое запекается вместе с пиццей.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-dfc901bd4c47ad4a">
+        <name>Баклажан — дополнительный топпинг 30 г</name>
+        <vendor>У Антонио</vendor>
+        <price>40</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 30 г.</description>
+        <shortDescription>Дополнительная порция: 30 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9c5d668d8488587c">
+        <name>Болгарский перец — дополнительный топпинг 30 г</name>
+        <vendor>У Антонио</vendor>
+        <price>50</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 30 г.</description>
+        <shortDescription>Дополнительная порция: 30 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c4688a1d79e77e18">
+        <name>Ветчина — дополнительный топпинг 40 г</name>
+        <vendor>У Антонио</vendor>
+        <price>70</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 40 г.</description>
+        <shortDescription>Дополнительная порция: 40 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-dccddc272d13d47c">
+        <name>Горгонзола — дополнительный топпинг 15 г</name>
+        <vendor>У Антонио</vendor>
+        <price>80</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 15 г.</description>
+        <shortDescription>Дополнительная порция: 15 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-b1587c6a7047fc3f">
+        <name>Кабачок — дополнительный топпинг 30 г</name>
+        <vendor>У Антонио</vendor>
+        <price>40</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 30 г.</description>
+        <shortDescription>Дополнительная порция: 30 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-1a4269d10501c631">
+        <name>Мортаделла — дополнительный топпинг 25 г</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 25 г.</description>
+        <shortDescription>Дополнительная порция: 25 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-5971ec54f8a1be04">
+        <name>Моцарелла — дополнительный топпинг 50 г</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 50 г.</description>
+        <shortDescription>Дополнительная порция: 50 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-d5c734c7d313e5e1">
+        <name>Оливки — дополнительный топпинг 20 г</name>
+        <vendor>У Антонио</vendor>
+        <price>50</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 20 г.</description>
+        <shortDescription>Дополнительная порция: 20 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-285440f52a8f4990">
+        <name>Пармезан — дополнительный топпинг 10 г</name>
+        <vendor>У Антонио</vendor>
+        <price>70</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 10 г.</description>
+        <shortDescription>Дополнительная порция: 10 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-7f9677fc5965ce89">
+        <name>Пепперони — дополнительный топпинг 30 г</name>
+        <vendor>У Антонио</vendor>
+        <price>90</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 30 г.</description>
+        <shortDescription>Дополнительная порция: 30 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-e300b58f5765ad61">
+        <name>Прошутто котто — дополнительный топпинг 20 г</name>
+        <vendor>У Антонио</vendor>
+        <price>90</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 20 г.</description>
+        <shortDescription>Дополнительная порция: 20 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-e512b172aa54a063">
+        <name>Прошутто крудо — дополнительный топпинг 15 г</name>
+        <vendor>У Антонио</vendor>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 15 г.</description>
+        <shortDescription>Дополнительная порция: 15 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9e8a981f646ef1a1">
+        <name>Тунец — дополнительный топпинг 25 г</name>
+        <vendor>У Антонио</vendor>
+        <price>150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 25 г.</description>
+        <shortDescription>Дополнительная порция: 25 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-5ea544deaf847b64">
+        <name>Шампиньоны — дополнительный топпинг 30 г</name>
+        <vendor>У Антонио</vendor>
+        <price>50</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>108</categoryId>
+        <description>Дополнительная порция: 30 г.</description>
+        <shortDescription>Дополнительная порция: 30 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-ba3126a0a60a1e79">
+        <name>4 сезона 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9a0819d90ec96b87">
+        <name>4 сезона 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>770</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-7e102041ec5155d8">
+        <name>4 сезона 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>970</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки, разложенные по секторам.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-0a5f4e01ffba5127">
+        <name>4 сыра 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</description>
+        <shortDescription>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4eeb943bcb6bee45">
+        <name>4 сыра 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>870</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</description>
+        <shortDescription>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-7833f12ab6052a81">
+        <name>4 сыра 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</description>
+        <shortDescription>Сливочный соус, моцарелла, горгонзола, пармезан и эмменталь.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-81a3833ac9240425">
+        <name>Ветчина и грибы 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, ветчина и шампиньоны.</description>
+        <shortDescription>Сливочный соус, моцарелла, ветчина и шампиньоны.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-387dbdcb6441ef13">
+        <name>Ветчина и грибы 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, ветчина и шампиньоны.</description>
+        <shortDescription>Сливочный соус, моцарелла, ветчина и шампиньоны.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-a3d49be5604444ad">
+        <name>Ветчина и грибы 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1010</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, ветчина и шампиньоны.</description>
+        <shortDescription>Сливочный соус, моцарелла, ветчина и шампиньоны.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4980d110576f3afe">
+        <name>Дьявола 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-ca8af89d6ba506f1">
+        <name>Дьявола 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-5a07b431df324754">
+        <name>Дьявола 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1080</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Острая пицца: томатный соус, моцарелла, салями пикканте и хлопья чили; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-e8f85cd10db58348">
+        <name>Закрываем тонкое тесто полумесяцем и обжариваем до золотистой корочки, чтобы внутри начинка оставалась нежной и сочной.</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fipbvbt/1715d715-a2bf-4b91-a145-75ca9dca17c9/1715d715-a2bf-4b91-a145-75ca9dca17c9-16670281.png</picture>
+        <description>По цене По названию ПАНЦЕРОТТИ КЛАССИЧЕСКИЕ Горячий хрустящий панцеротти с томатным соусом, тянущейся моцареллой и щепоткой орегано. Закрываем тонкое тесто полумесяцем и обжариваем до золотистой корочки, чтобы внутри начинка оставалась нежной и сочной. 160 ₽ Купить ПАНЦЕРОТТИ С ВЕТЧИНОЙ И МОЦАРЕЛЛОЙ Хрустящий панцеротти со сливочным соусом, моцареллой, нежной ветчиной. Обжариваем до румяной корочки, а внутри получается горячая, сытная начинка с тянущимся сыром. 180 ₽ Купить ПАНЦЕРОТТИ 4СЫРА Панцеротти на сливочной основе с моцареллой, горгонзолой, эмменталем и пармезаном. Снаружи тонкое хрустя</description>
+        <shortDescription>По цене По названию ПАНЦЕРОТТИ КЛАССИЧЕСКИЕ Горячий хрустящий панцеротти с томатным соусом, тянущейся моцареллой и щепоткой орегано. Закрываем тонкое тесто полумесяцем и обжариваем до золотистой корочки, чтобы внутри начинка оставалась нежной и сочно</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-112849c6373400d5">
+        <name>Капричоза 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-76c125e6f8fec3c4">
+        <name>Капричоза 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-bdf40da6976192e1">
+        <name>Капричоза 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-f94995898b69e3c5">
+        <name>Картофель фри 150 г</name>
+        <vendor>У Антонио</vendor>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Хрустящий картофель фри, приготовленный до золотистой корочки и поданный горячим.</description>
+        <shortDescription>Хрустящий картофель фри, приготовленный до золотистой корочки и поданный горячим.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-81ab040ec26b6679">
+        <name>Кетчуп 25 г</name>
+        <vendor>У Антонио</vendor>
+        <price>40</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Порционный кетчуп, 25 г.</description>
+        <shortDescription>Порционный кетчуп, 25 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-8d9aafdf322b693b">
+        <name>ПРИЧОЗА 25см Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла.</name>
+        <vendor>У Антонио</vendor>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/amjjbvy/6debaea7-b22c-4753-b8d6-199efc2c69df/6debaea7-b22c-4753-b8d6-199efc2c69df-16870603.png</picture>
+        <description>По цене По названию КАПРИЧОЗА 25см Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла. 780 ₽ Купить КАПРИЧОЗА 32см Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла. 990 ₽ Купить С ПРОШУТТО КРУДО 25см Томатная основа с моцареллой запекается до румяного борта. После выпечки добавляем тонкие ломтики прошутто крудо, свежую рукколу, стружку пармезана и немного оливкового масла. Прошутто не запекается, поэтому сохраняет мягкость, аромат и нежную текстуру. 990 ₽ Купить С ПРОШУТТО КРУДО 32</description>
+        <shortDescription>По цене По названию КАПРИЧОЗА 25см Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки — немного оливкового масла. 780 ₽ Купить КАПРИЧОЗА 32см Томатный соус, моцарелла, ветчина, шампиньоны, артишоки и оливки; после выпечки</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-39083911f7f20604">
+        <name>Панцеротти 4 сыра</name>
+        <vendor>У Антонио</vendor>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Сливочный соус, моцарелла, горгонзола, эмменталь и пармезан.</description>
+        <shortDescription>Сливочный соус, моцарелла, горгонзола, эмменталь и пармезан.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-91b2b8a9f81e8acd">
+        <name>Панцеротти классический</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и орегано.</description>
+        <shortDescription>Томатный соус, моцарелла и орегано.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-3876ac1553260877">
+        <name>Панцеротти с ветчиной</name>
+        <vendor>У Антонио</vendor>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и ветчина.</description>
+        <shortDescription>Томатный соус, моцарелла и ветчина.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-7795342aeb8736b1">
+        <name>Паста Песто</name>
+        <vendor>У Антонио</vendor>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Пенне al dente, соус песто и тёртый пармезан.</description>
+        <shortDescription>Пенне al dente, соус песто и тёртый пармезан.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9f58e90d1b52b172">
+        <name>Пепперони 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</description>
+        <shortDescription>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-71e39e31b9b953b4">
+        <name>Пепперони 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>880</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</description>
+        <shortDescription>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-8ce36a29f33679f7">
+        <name>Пепперони 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1080</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</description>
+        <shortDescription>Томатный соус, моцарелла и пепперони запекаются вместе с основой.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-909214d9bc3c4316">
+        <name>Пицца с тефтельками 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-dc67e1c975d1736b">
+        <name>Пицца с тефтельками 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>860</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-7001544a83fb9ef2">
+        <name>Пицца с тефтельками 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</description>
+        <shortDescription>Томатный соус, моцарелла и готовые тефтельки; после выпечки — базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4ca34c11db288188">
+        <name>По цене По названию ПАСТА с соусом ПЕСТО Пенне, соус песто, пармезан</name>
+        <vendor>У Антонио</vendor>
+        <price>480</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vejlgep/06730680-9f51-4b5e-9a42-b230e5a35fd8/06730680-9f51-4b5e-9a42-b230e5a35fd8-16670152.png</picture>
+        <description>По цене По названию ПАСТА с соусом ПЕСТО Пенне, соус песто, пармезан 480 ₽ Купить Загрузить еще Вы просмотрели 12 из 1 товаров</description>
+        <shortDescription>По цене По названию ПАСТА с соусом ПЕСТО Пенне, соус песто, пармезан 480 ₽ Купить Загрузить еще Вы просмотрели 12 из 1 товаров</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-ec4962e06086a875">
+        <name>Соус сырный 25 г</name>
+        <vendor>У Антонио</vendor>
+        <price>40</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>104</categoryId>
+        <description>Порционный сырный соус, 25 г.</description>
+        <shortDescription>Порционный сырный соус, 25 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-d9d0f0cd30334641">
+        <name>Big Family</name>
+        <vendor>У Антонио</vendor>
+        <price>3490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>Пять пицц 25 см: Пепперони, 4 сыра, Ветчина и грибы, Пицца с тефтельками, Овощи гриль. Выгода 540 ₽.</description>
+        <shortDescription>Пять пицц 25 см: Пепперони, 4 сыра, Ветчина и грибы, Пицца с тефтельками, Овощи гриль. Выгода 540 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-6d8df660ac851193">
+        <name>Big Friends</name>
+        <vendor>У Антонио</vendor>
+        <price>4490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>Пять пицц 32 см: Пепперони, 4 сыра, Ветчина и грибы, Пицца с тефтельками, Овощи гриль. Выгода 630 ₽.</description>
+        <shortDescription>Пять пицц 32 см: Пепперони, 4 сыра, Ветчина и грибы, Пицца с тефтельками, Овощи гриль. Выгода 630 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-1c0246fa9d599ff4">
+        <name>Большой семейный вечер</name>
+        <vendor>У Антонио</vendor>
+        <price>2890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>Пепперони 32 см + 4 сыра 32 см + Пицца с тефтельками 32 см. Выгода 440 ₽.</description>
+        <shortDescription>Пепперони 32 см + 4 сыра 32 см + Пицца с тефтельками 32 см. Выгода 440 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-d6e233d17704b2ca">
+        <name>Дуэт хитов</name>
+        <vendor>У Антонио</vendor>
+        <price>1490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>Пепперони 25 см + 4 сыра 25 см. Выгода 260 ₽.</description>
+        <shortDescription>Пепперони 25 см + 4 сыра 25 см. Выгода 260 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-a569a085890c3272">
+        <name>Итальянский дуэт</name>
+        <vendor>У Антонио</vendor>
+        <price>1490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>Пицца с тефтельками 25 см + Ветчина и грибы 25 см. Выгода 170 ₽.</description>
+        <shortDescription>Пицца с тефтельками 25 см + Ветчина и грибы 25 см. Выгода 170 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-260425d5ddd66e33">
+        <name>Сырный дуэт</name>
+        <vendor>У Антонио</vendor>
+        <price>1390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>105</categoryId>
+        <description>4 сыра 25 см + Груша и горгонзола 25 см. Выгода 180 ₽.</description>
+        <shortDescription>4 сыра 25 см + Груша и горгонзола 25 см. Выгода 180 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4e1b91876e0ca021">
+        <name>Два настроения</name>
+        <vendor>У Антонио</vendor>
+        <price>1490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Пицца с тунцом 25 см + Пепперони 25 см. Выгода 190 ₽.</description>
+        <shortDescription>Пицца с тунцом 25 см + Пепперони 25 см. Выгода 190 ₽.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-644a246ca901e283">
+        <name>Маргарита 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</description>
+        <shortDescription>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-057fae8397886508">
+        <name>Маргарита 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>540</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</description>
+        <shortDescription>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-bc30be3d39ea6059">
+        <name>Маргарита 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>660</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</description>
+        <shortDescription>Томатная основа с моцареллой; после выпечки — свежий базилик и немного оливкового масла.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-03fdc3e6c214b3cf">
+        <name>Пицца с прошутто крудо 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>240</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</description>
+        <shortDescription>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-eee055f1a567cb4a">
+        <name>Пицца с прошутто крудо 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</description>
+        <shortDescription>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c394df46028a670b">
+        <name>Пицца с прошутто крудо 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</description>
+        <shortDescription>Томатная основа с моцареллой. После выпечки добавляем прошутто крудо, рукколу, пармезан и оливковое масло.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4ed06c34cd8136e6">
+        <name>Пицца с тунцом и красным луком 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</description>
+        <shortDescription>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-75049c1e30f20ccf">
+        <name>Пицца с тунцом и красным луком 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</description>
+        <shortDescription>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-86f84888fd7acb14">
+        <name>Пицца с тунцом и красным луком 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>1010</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>101</categoryId>
+        <description>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</description>
+        <shortDescription>Томатная основа с моцареллой, тунцом без лишней жидкости и тонко нарезанным луком.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-da6382d98020a32d">
+        <name>BonAqua 0,5 газ/негаз</name>
+        <vendor>У Антонио</vendor>
+        <price>90</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c098fee4290a7b9d">
+        <name>Американо + круассан с джемом</name>
+        <vendor>У Антонио</vendor>
+        <price>250</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-af7a9d6328ffb864">
+        <name>Американо + круассан с нутеллой</name>
+        <vendor>У Антонио</vendor>
+        <price>320</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-0e36f3bd2b04c4ad">
+        <name>Американо + шоколадка</name>
+        <vendor>У Антонио</vendor>
+        <price>170</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-3765e360f4d56f08">
+        <name>Американо 120 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>140</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-117d31de2db99f62">
+        <name>Добрый апельсин 1 л</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-41b904847479019a">
+        <name>Добрый кола 0,33</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-5e33361c53d9f72c">
+        <name>Добрый кола 0,5</name>
+        <vendor>У Антонио</vendor>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-65b9095d76af6666">
+        <name>Добрый кола без сахара 0,33</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-f146e91f07c8c280">
+        <name>Добрый лимон-лайм 1 л</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-04051d7f85107df4">
+        <name>Капрезе с рукколой</name>
+        <vendor>У Антонио</vendor>
+        <price>510</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Руккола, томаты, моцарелла, базилик, немного соли и оливковое масло.</description>
+        <shortDescription>Руккола, томаты, моцарелла, базилик, немного соли и оливковое масло.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-1b3cef1947454070">
+        <name>Капучино + круассан с джемом</name>
+        <vendor>У Антонио</vendor>
+        <price>280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c30d49dfb9d1253b">
+        <name>Капучино + круассан с нутеллой</name>
+        <vendor>У Антонио</vendor>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-b00f12aa43ed3066">
+        <name>Капучино + шоколадка</name>
+        <vendor>У Антонио</vendor>
+        <price>190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-cc3e330c8b6a12a5">
+        <name>Капучино 160 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-76c2a99fb5147690">
+        <name>Латте + круассан с джемом</name>
+        <vendor>У Антонио</vendor>
+        <price>300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-1d14cf3705aea7e1">
+        <name>Латте + круассан с нутеллой</name>
+        <vendor>У Антонио</vendor>
+        <price>370</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-20792cc3950a7d7a">
+        <name>Латте + шоколадка</name>
+        <vendor>У Антонио</vendor>
+        <price>210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9abb593a01a08220">
+        <name>Латте 220 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>180</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-340221c6bff6d8e6">
+        <name>Лимон-лайм 0,5</name>
+        <vendor>У Антонио</vendor>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c2ff3a5bed9ec5c3">
+        <name>Овощи гриль 15 см</name>
+        <vendor>У Антонио</vendor>
+        <price>160</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</description>
+        <shortDescription>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-f6294b8a38132b0f">
+        <name>Овощи гриль 25 см</name>
+        <vendor>У Антонио</vendor>
+        <price>620</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</description>
+        <shortDescription>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-2ccfdd8c266b0c0a">
+        <name>Овощи гриль 32 см</name>
+        <vendor>У Антонио</vendor>
+        <price>780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</description>
+        <shortDescription>Томатный соус, моцарелла, баклажан, кабачок и сладкий перец гриль; руккола после выпечки.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9cff984ce354d3fd">
+        <name>Руккола — дополнительный топпинг 10 г</name>
+        <vendor>У Антонио</vendor>
+        <price>50</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Дополнительная порция: 10 г.</description>
+        <shortDescription>Дополнительная порция: 10 г.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-0c7a812983ba3bf6">
+        <name>Чай зелёный 250 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-bc83dbae73a81d67">
+        <name>Чай зелёный манго 0,5</name>
+        <vendor>У Антонио</vendor>
+        <price>110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-f7b5af221761cf5b">
+        <name>Чай мятный 250 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-154b1d9e399d4992">
+        <name>Чай чёрный 250 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-8a88e1cabc65b4ec">
+        <name>Чай чёрный лимон 0,5</name>
+        <vendor>У Антонио</vendor>
+        <price>110</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-4aaa995b84c0242d">
+        <name>Эспрессо + круассан с джемом</name>
+        <vendor>У Антонио</vendor>
+        <price>230</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-9ebec0857c4eb451">
+        <name>Эспрессо + круассан с нутеллой</name>
+        <vendor>У Антонио</vendor>
+        <price>310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-5c33cf0cfee07135">
+        <name>Эспрессо + шоколадка</name>
+        <vendor>У Антонио</vendor>
+        <price>150</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</description>
+        <shortDescription>Завтрак по-итальянски: кофе и сладкая пауза. Подаётся весь день.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-cbdd781f383dd2e4">
+        <name>Эспрессо 30 мл</name>
+        <vendor>У Антонио</vendor>
+        <price>120</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <description>Напиток из актуального меню «У Антонио».</description>
+        <shortDescription>Напиток из актуального меню «У Антонио».</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c520e1adc04895de">
+        <name>м базиликом и руколой Заправляем оливковым маслом и украшаем бальзамическим кремом для мягкой кисло-сладкой нотки. 200гр</name>
+        <vendor>У Антонио</vendor>
+        <price>510</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>107</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/ufnltkx/86a8439a-2eb8-4b28-b0d3-5d07cfa22c25/86a8439a-2eb8-4b28-b0d3-5d07cfa22c25-16670136.png</picture>
+        <description>По цене По названию Салат Капрезе с Руколой Капрезе - легкий итальянский салат с нежной моцареллой, сочными томатами и свежим базиликом и руколой Заправляем оливковым маслом и украшаем бальзамическим кремом для мягкой кисло-сладкой нотки. 200гр 510 ₽ Купить САЛАТ С ТУНЦОМ Свежая руккола, сочные томаты, тунец и оливки, заправленные оливковым маслом. Лёгкий, но сытный салат с чистым средиземноморским вкусом. 230гр. 690 ₽ Купить Загрузить еще Вы просмотрели 12 из 2 товаров</description>
+        <shortDescription>По цене По названию Салат Капрезе с Руколой Капрезе - легкий итальянский салат с нежной моцареллой, сочными томатами и свежим базиликом и руколой Заправляем оливковым маслом и украшаем бальзамическим кремом для мягкой кисло-сладкой нотки. 200гр 510 ₽</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+      <offer id="uanto-c8346856ae9209e4">
+        <name>Салат с тунцом</name>
+        <vendor>У Антонио</vendor>
+        <price>690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>103</categoryId>
+        <description>Тунец, зелень, томаты, оливки и оливковое масло.</description>
+        <shortDescription>Тунец, зелень, томаты, оливки и оливковое масло.</shortDescription>
+        <url>https://uantonio.tb.ru/</url>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
