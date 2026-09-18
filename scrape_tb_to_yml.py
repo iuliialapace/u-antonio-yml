@@ -28,7 +28,8 @@ def key_name(s): return re.sub(r"\s+"," ",clean(s).lower())
 def stable_id(name): return "uanto-"+hashlib.sha1(name.lower().encode("utf-8")).hexdigest()[:16]
 
 def classify(name,text=""):
-    s=(name+" "+text).lower()
+    n=name.lower(); s=(name+" "+text).lower()
+    if any(x in n for x in ["вегетарианское трио","компания у антонио","два настроения","дуэт","big family","big friends","семейный"]): return "Комбо"
     if any(x in s for x in ["кофе","эспрессо","американо","капучино","латте","чай ","cola","кола","bonaqua","напит"]): return "Напитки"
     if any(x in s for x in ["комбо","дуэт","big family","big friends","семейн"]): return "Комбо"
     if any(x in s for x in ["круассан","завтрак","шоколадка"]): return "Завтраки"
@@ -158,12 +159,15 @@ def generate(products):
 def main():
     existing=dedupe(load_existing())
     found=[]
-    for url in parse_sitemap():
+    urls=parse_sitemap(); print("Sitemap URLs:",len(urls))
+    for url in urls:
         try: html=get(url)
         except Exception as e: print("WARN fetch",url,e,file=sys.stderr); continue
         soup=BeautifulSoup(html,"html.parser"); found.extend(extract_jsonld(soup,url)); found.extend(extract_dom(soup,url))
     found=apply_known_site_corrections(dedupe(found))
     print(f"Found {len(found)} product offers on site; existing feed has {len(existing)}")
+    for p in found:
+        print("FOUND|",p.get("name"),"|",p.get("price"),"|PIC|",p.get("picture",""),"|URL|",p.get("url",""))
     merged={key_name(p["name"]):p for p in existing}
     for p in found:
         k=key_name(p["name"])
